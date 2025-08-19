@@ -3,6 +3,7 @@
 - JDK 17 21
 - Maven 3.9 
 - MySQL 8
+# test tag example to version 3.5.3
 
 # Technologies 
 - JAKARTA
